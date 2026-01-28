@@ -3,7 +3,7 @@
 }
 
 .header  {
-  font-family: monospace;
+  font-family: 'Courier New', Courier, monospace;
   background: papayawhip;
   padding: 10px;
   display: flex;
