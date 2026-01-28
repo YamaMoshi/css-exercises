@@ -18,10 +18,12 @@ body {
   box-shadow: 0 0 8px rgba(0,0,0,.1);
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
 .left-header, .right-header {
   display: flex;
+  align-items: center;
 }
 
 .profile-image {
