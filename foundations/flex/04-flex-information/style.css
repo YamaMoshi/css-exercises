@@ -7,23 +7,27 @@ img {
   height: 100px;
 }
 
+.info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 .title {
   font-size: 36px;
   font-weight: 900;
   
 }
 
-.info {
-  display: flex;
-  flex-direction: column;
-}
-
 .info-content {
   display: flex;
 }
 
-.info-01, .info-02, .info-03,.info-04 {
+.content {
   flex-basis: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 /* do not edit this footer */
